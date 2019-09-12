@@ -18,10 +18,10 @@ color1='lightblue'
 color2='darkgreen'
 mytitle='test'
 tabtitle='beer!'
-myheading='Flying Dog Beers'
+myheading='NLR Advanced Analytics'
 label1='IBU'
 label2='ABV'
-githublink='https://github.com/vickymei/flying-dog-beers'
+githublink='https://github.com/vickymei/advanced-analytics'
 sourceurl='https://nlrcareers.com/'
 #############################
 
@@ -134,7 +134,7 @@ app.layout = html.Div(children=[
     ),
     html.A('Code on Github', href=githublink),
     html.Br(),
-    html.A('Data Source bleongs to', href=sourceurl),
+    html.A('Data Source bleongs to NLR', href=sourceurl),
     ]
 )
 
