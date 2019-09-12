@@ -1,0 +1,63 @@
+﻿city,lat,lon,company,size
+Armonk,41.13,-73.71,"Reynolds + Rowella, LLP: 2",2.00
+Baltimore,39.31,-76.61,Miles & Stockbridge: 3,3.00
+Boston,42.32,-71.08,"Baker Newman Noyes: 10
+Blum Shapiro: 7
+Cooley: 4
+DGC (DiCicco, Gulman & Company): 2",23.00
+Braintree,42.21,-71,"Kevin P. Martin & Associates, P.C.:2",2.00
+Carlisle,40.2,-77.2,"Smith Elliot Kerns & Company, LLC (SEKC): 1",1.00
+Chambersburg,39.93,-77.66,"Smith Elliot Kerns & Company, LLC (SEKC): 1",1.00
+Chicago,41.87,-87.62,"Apercen Partners LLC: 3
+BDO USA, LLP - NW Region: 1
+FGMK LLC: 5
+Topel Forman, L.L.C.: 2",11.00
+Clifton,40.86,-74.16,Sax LLP: 4,4.00
+Cranston,41.78,-71.47,Blum Shapiro: 2,2.00
+Denver,39.74,-104.96,"Topel Forman, L.L.C.: 2",2.00
+Encino,34.15,-118.52,"Gelfand, Rennert & Feldman, LLC: 2",2.00
+Irvine,33.7,-117.77,Windes: 2,2.00
+Long Beach,33.79,-118.19,Windes: 2,2.00
+Los Angeles,34.06,-118.29,"Gelfand, Rennert & Feldman, LLC: 2
+Jeffer Mangels Butler & Mitchell LLP (JMBM): 3
+SheppardMullin: 1",6.00
+Manchester,42.99,-71.45,Baker Newman Noyes: 5,5.00
+Menlo Park,37.45,-122.17,McDermott Will & Emery : 1,1.00
+New York,40.8,-73.95,"Apercen Partners LLC: 4
+Cooley: 6
+Garvey Schubert Barer: 1
+Mintz Levin Cohn Ferris Glovsky and Popeo PC: 1",12.00
+Palo Alto,37.44,-122.14,"Apercen Partners LLC: 2
+Cooley: 6
+Jones Day: 2
+SheppardMullin: 1
+Sutter Hill Ventures: 2
+Wilson Sonsini Goodrich & Rosati: 8",21.00
+Pasadena,34.16,-118.15,Apercen Partners LLC: 2,2.00
+Philadelphia,39.96,-75.17,Drucker & Scaccetti: 4,4.00
+Portland,45.51,-122.64,"Apercen Partners LLC: 2
+Baker Newman Noyes: 5",7.00
+Portsmouth,43.06,-70.78,Baker Newman Noyes: 4,4.00
+Quincy,42.25,-71,Blum Shapiro: 3,3.00
+Redwood City,37.48,-122.23,Seiler LLP: 10,10.00
+Ridgefield,41.3,-73.5,"Reynolds + Rowella, LLP: 3",3.00
+San Jose,37.29,-121.88,"BDO USA, LLP - NW Region: 1
+Seiler LLP: 3",4.00
+Santa Rosa,38.45,-122.7,BPM LLP: 2,2.00
+Sacramento,38.56,-121.47,Apercen Partners LLC: 1,1.00
+San Francisco,37.77,-122.41,"Apercen Partners LLC: 2
+BDO USA, LLP - NW Region: 4
+Cooley: 5
+Eisner Amper: 4
+Lindquist, von Husen & Joyce LLP: 3
+Seiler LLP: 12
+SheppardMullin: 1
+Wilson Sonsini Goodrich & Rosati: 3",34.00
+West Hardford,41.77,-72.74,Blum Shapiro: 4,4.00
+Seattle,47.6,-122.33,"BDO USA, LLP - NW Region: 1",1.00
+Shelton,41.3,-73.13,Blum Shapiro: 4,4.00
+White Plains,41.02,-73.75,"Gelfand, Rennert & Feldman, LLC: 2",2.00
+Timonium,39.55,-76.14,Katz Abosch: 3,3.00
+Wilmington,39.75,-75.55,"Gelfand, Rennert & Feldman, LLC: 2",2.00
+San Diego,32.78,-117.17,"Wilson Sonsini Goodrich & Rosati: 1
+Cooley: 2",3.00
